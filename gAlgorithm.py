@@ -1,3 +1,9 @@
+# F. E. T. LIBERATO SALZANO VIEIRA DA CUNHA 
+# TC ELETRÔNICA
+# SISTEMA DE CONTROLE POR ALGORITMOS DE INTELIGÊNCIA ARTIFICIAL 
+# AUTORES: DIEGO MACHADO
+#......... GABRIEL GOSMANN
+
 from pybrain.tools.shortcuts import buildNetwork
 from pybrain.datasets import SupervisedDataSet
 from pybrain.supervised.trainers import BackpropTrainer
