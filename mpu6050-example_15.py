@@ -1,4 +1,9 @@
 #!/usr/bin/env python
+# F. E. T. LIBERATO SALZANO VIEIRA DA CUNHA 
+# TC ELETRÔNICA
+# SISTEMA DE CONTROLE POR ALGORITMOS DE INTELIGÊNCIA ARTIFICIAL 
+# AUTORES: DIEGO MACHADO
+#......... GABRIEL GOSMANN
 
 from mpu6050_mod import mpu6050
 from stepper_motor_4 import Stepper
