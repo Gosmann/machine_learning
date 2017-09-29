@@ -1,2 +1,10 @@
 # machine_learning
+
+
 contains all files used on the machine learning project
+
+F. E. T. LIBERATO SALZANO VIEIRA DA CUNHA 
+TC ELETRÔNICA
+SISTEMA DE CONTROLE POR ALGORITMOS DE INTELIGÊNCIA ARTIFICIAL 
+AUTORES: DIEGO MACHADO
+.. ..... GABRIEL GOSMANN
