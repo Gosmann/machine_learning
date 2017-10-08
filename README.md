@@ -1,4 +1,6 @@
 # machine_learning
 
 
-contains all files used on the machine learning project
+contém todos os arquivos utilizados no trabalho de conclusão (TC) do Curso Técnico de Eletrônica da Fundação Liberato.
+
+Autores: Diego Machado e Gabriel Gosmann
